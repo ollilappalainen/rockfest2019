@@ -1,5 +1,8 @@
 {
   "name": "Rockfest2019",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
